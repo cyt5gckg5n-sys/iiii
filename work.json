@@ -1,0 +1,2040 @@
+{
+  "formatVersion": 1,
+  "id": "seventeen-seconds-after",
+  "title": "十七秒之后",
+  "description": "一部发生在虚构女团 LUMINA 海外巡演期间的捡手机悬疑故事。玩家捡到队内大姐韩知雅未锁屏的手机，从一段 17 秒视频、反复出现的问句和一条名为“잠깐”的日程中拼出视频真正的用途。人物关系不提前定性；真相聚焦于视频与一场小型惊喜的关联。",
+  "category": "互动手机故事",
+  "cover": "",
+  "updatedAt": 3,
+  "phone": {
+    "owner": "韩知雅",
+    "date": "2026-05-18",
+    "passcode": "",
+    "wallpaper": "sage",
+    "theme": "light",
+    "time": "23:06",
+    "battery": 37,
+    "network": "5G",
+    "notifications": true
+  },
+  "apps": [
+    {
+      "id": "phone",
+      "name": "电话",
+      "installed": true,
+      "visible": true,
+      "dock": true,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "messages",
+      "name": "信息",
+      "installed": true,
+      "visible": true,
+      "dock": true,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "contacts",
+      "name": "通讯录",
+      "installed": true,
+      "visible": true,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "photos",
+      "name": "相册",
+      "installed": true,
+      "visible": true,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "notes",
+      "name": "备忘录",
+      "installed": true,
+      "visible": true,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "calendar",
+      "name": "日历",
+      "installed": true,
+      "visible": true,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "instagram",
+      "name": "Instagram",
+      "installed": true,
+      "visible": true,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "safari",
+      "name": "浏览器",
+      "installed": true,
+      "visible": true,
+      "dock": true,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "settings",
+      "name": "设置",
+      "installed": true,
+      "visible": true,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "camera",
+      "name": "相机",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "mail",
+      "name": "邮件",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "clock",
+      "name": "时钟",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "reminders",
+      "name": "提醒事项",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "files",
+      "name": "文件",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "music",
+      "name": "音乐",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "maps",
+      "name": "地图",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "weather",
+      "name": "天气",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "wallet",
+      "name": "钱包",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "health",
+      "name": "健康",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "find",
+      "name": "查找",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "calculator",
+      "name": "计算器",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "wechat",
+      "name": "微信",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "qq",
+      "name": "QQ",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "weibo",
+      "name": "微博",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "redbook",
+      "name": "小红书",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "douyin",
+      "name": "抖音",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "bilibili",
+      "name": "哔哩哔哩",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "alipay",
+      "name": "支付宝",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "taobao",
+      "name": "淘宝",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "netease",
+      "name": "网易云音乐",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "delivery",
+      "name": "外卖",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "forum",
+      "name": "论坛",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "whatsapp",
+      "name": "WhatsApp",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "tiktok",
+      "name": "TikTok",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "twitter",
+      "name": "X",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "telegram",
+      "name": "Telegram",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "discord",
+      "name": "Discord",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "youtube",
+      "name": "YouTube",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "line",
+      "name": "LINE",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "snapchat",
+      "name": "Snapchat",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "facebook",
+      "name": "Facebook",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "messenger",
+      "name": "Messenger",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "reddit",
+      "name": "Reddit",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "spotify",
+      "name": "Spotify",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "netflix",
+      "name": "Netflix",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "pinterest",
+      "name": "Pinterest",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "kakao",
+      "name": "KakaoTalk",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "appstore",
+      "name": "App Store",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "threads",
+      "name": "Threads",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    }
+  ],
+  "data": {
+    "photos": [
+      {
+        "id": "photo-video-timestamp",
+        "title": "IMG_0515.MOV · 信息",
+        "body": "一张文件信息截图：视频时长 00:17，发送时间 5 月 15 日 23:16。画面只拍到排练室镜面、地板和浅色运动鞋；00:12 处听见“다시 볼 거야?（还要再看吗？）”，00:14 附近似乎有一声“응（嗯）”，声音归属不明。",
+        "richText": "",
+        "meta": {
+          "source": "信息附件截图",
+          "clue": "视频发送时间早于反复追问两分钟；不证明它们一定是同一件事。"
+        },
+        "time": "2026-05-15 23:16",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "image",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "photo-hotel-window",
+        "title": "酒店窗边",
+        "body": "5 月 16 日 23:12 拍摄。窗玻璃映着室内暖光，没有人物或可识别地点。备注：잘 자（晚安）。",
+        "richText": "",
+        "meta": {
+          "caption": "잘 자",
+          "location": "未记录"
+        },
+        "time": "2026-05-16 23:12",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "image",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "photo-shoes",
+        "title": "排练室地板",
+        "body": "照片只拍到地板边缘与一双浅色运动鞋。没有拍到脸，也没有 EXIF 地点。鞋款常见，不能据此识别人物。",
+        "richText": "",
+        "meta": {
+          "location": "未记录",
+          "clue": "与视频首段画面相似，但不能确认是同一时间或同一人。"
+        },
+        "time": "2026-05-15 23:15",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "image",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "photo-calendar-crop",
+        "title": "日程截图（裁切）",
+        "body": "截图仅显示“잠깐”以及 15:30–15:50；创建者、地点与参与者都被裁掉了。",
+        "richText": "",
+        "meta": {
+          "clue": "日程内容不完整，不足以证明与 ZH 的消息有关。"
+        },
+        "time": "2026-05-18 22:50",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "image",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      }
+    ],
+    "notes": [
+      {
+        "id": "note-tour",
+        "title": "巡演待办",
+        "body": "□ 确认明早集合时间\n□ 检查道具盒\n□ 记得吃饭\n□ 5/19 15:30：잠깐（先不要写地点）",
+        "richText": "",
+        "meta": {},
+        "time": "2026-05-18 21:10",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "note",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "note-hidden",
+        "title": "未发送的备忘",
+        "body": "如果有人问起 17 秒，就先别解释。那不是完整的排练记录，只是留给明天确认的一段提示。把道具盒底层的纸条带上；等看完完整版本，再决定要不要说是谁拍的。\n\n备注：视频的意义是一个小型惊喜的提示，不代表拍摄者与知雅有恋爱关系。",
+        "richText": "",
+        "meta": {},
+        "time": "2026-05-18 22:57",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "note",
+        "media": "",
+        "hidden": true,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "note-draft",
+        "title": "未完成的文字",
+        "body": "有些人总问我有没有再看。只有十七秒而已。\n\n（未保存的草稿，不知道写给谁。）",
+        "richText": "",
+        "meta": {},
+        "time": "2026-05-17 23:02",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "note",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "ending-true-note",
+        "title": "结局记录 · 线索拼合",
+        "body": "完整版本的纸条确认：LUMINA 的成员与一位同公司前辈，正在准备给队内大姐的巡演收尾小惊喜。17 秒视频只是提示镜头，故意避开人脸，以免提前揭晓。\n\n道具盒里的纸条没有写拍摄者姓名；“잠깐”日程也没有显示创建者。因此，视频用途可以确认，但 ZH 的真实身份与情感关系仍然未知。你把手机交回时，只附上可核实的线索，不替当事人下结论。",
+        "richText": "",
+        "meta": {},
+        "time": "2026-05-19 15:50",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "note",
+        "media": "",
+        "hidden": true,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "ending-ordinary-note",
+        "title": "结局记录 · 归还手机",
+        "body": "你把手机交给巡演失物招领处，并说明它有未读消息和一条次日短日程。手机安全归还，但你没有查看隐藏备忘录，也没有确认 17 秒视频的用途。谜团留给手机主人自己解开。",
+        "richText": "",
+        "meta": {},
+        "time": "2026-05-18 23:10",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "note",
+        "media": "",
+        "hidden": true,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "ending-bad-note",
+        "title": "结局记录 · 线索中断",
+        "body": "你清空最近记录后离开。视频时间戳、隐藏备忘录与未知来电之间的联系再也无法复原。次日的短日程无人核实，手机主人只能重新整理遗失的线索。",
+        "richText": "",
+        "meta": {},
+        "time": "2026-05-18 23:10",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "note",
+        "media": "",
+        "hidden": true,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      }
+    ],
+    "calendar": [
+      {
+        "id": "calendar-brief",
+        "title": "잠깐",
+        "body": "2026-05-19 15:30–15:50。地点未填写，参与者不可见，创建者不可见。没有附件或关联消息。",
+        "richText": "",
+        "meta": {
+          "start": "2026-05-19 15:30",
+          "end": "2026-05-19 15:50",
+          "location": "",
+          "participants": "未显示",
+          "creator": "未显示"
+        },
+        "time": "2026-05-19 15:30",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "event",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "calendar-tour",
+        "title": "海外巡演集合",
+        "body": "2026-05-19 09:00 集合；具体地点以工作人员最新通知为准。",
+        "richText": "",
+        "meta": {
+          "start": "2026-05-19 09:00",
+          "location": "工作人员另行通知"
+        },
+        "time": "2026-05-19 09:00",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "event",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      }
+    ],
+    "instagram": [
+      {
+        "id": "insta-draft",
+        "title": "草稿 · 未发布",
+        "body": "只有十七秒。明天就知道了。",
+        "richText": "",
+        "meta": {
+          "status": "draft",
+          "account": "虚构账号；不显示用户名",
+          "likes": "0",
+          "comments": "0"
+        },
+        "time": "2026-05-17 23:02",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "post",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "insta-private-post",
+        "title": "近友动态",
+        "body": "今天排练结束得很晚。有人一直问我有没有再看ㅋㅋ",
+        "richText": "",
+        "meta": {
+          "audience": "近友",
+          "comments": "‘别在这里说ㅋㅋ’；‘我什么都没看见’",
+          "likes": "隐藏"
+        },
+        "time": "2026-05-18 18:10",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "post",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      }
+    ],
+    "phone": [
+      {
+        "id": "call-log-unknown",
+        "title": "未接来电",
+        "body": "5 月 18 日 23:02 · 未知号码 · 4 秒。没有语音留言。来电显示无法确认身份。",
+        "richText": "",
+        "meta": {
+          "duration": "00:04",
+          "caller": "未知号码"
+        },
+        "time": "2026-05-18 23:02",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "call",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      }
+    ],
+    "safari": [
+      {
+        "id": "safari-search-history",
+        "title": "浏览记录",
+        "body": "最近一次搜索：‘17초 영상 다시 보기’（重看 17 秒视频）。页面未保存，搜索结果不可见。",
+        "richText": "",
+        "meta": {
+          "history": "仅保留搜索词；无可打开的外部链接"
+        },
+        "time": "2026-05-17 22:11",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      }
+    ],
+    "contacts": [
+      {
+        "id": "zh-contact-card",
+        "title": "ZH",
+        "body": "备注只有两个字母。身份、年龄与关系均未确认。",
+        "richText": "",
+        "meta": {
+          "phone": ""
+        },
+        "time": "2026-05-18 23:06",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "seo-yoon-card",
+        "title": "윤서 언니 💗",
+        "body": "同公司年长前辈；与知雅关系亲近，但具体来历暂不明。",
+        "richText": "",
+        "meta": {
+          "phone": ""
+        },
+        "time": "2026-05-18 23:06",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "minseo-card",
+        "title": "敏书",
+        "body": "LUMINA 成员；年纪比知雅小，会称呼她“지아 언니”。",
+        "richText": "",
+        "meta": {
+          "phone": ""
+        },
+        "time": "2026-05-18 23:06",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "manager-card",
+        "title": "Manager",
+        "body": "巡演工作人员；负责确认集合时间。",
+        "richText": "",
+        "meta": {
+          "phone": ""
+        },
+        "time": "2026-05-18 23:06",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "lumina-group-card",
+        "title": "LUMINA 🫧",
+        "body": "虚构女团 LUMINA 的工作群。",
+        "richText": "",
+        "meta": {
+          "phone": ""
+        },
+        "time": "2026-05-18 23:06",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "friends-group-card",
+        "title": "친구들",
+        "body": "知雅的熟人群；成员身份暂不全部显示。",
+        "richText": "",
+        "meta": {
+          "phone": ""
+        },
+        "time": "2026-05-18 23:06",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      }
+    ],
+    "messages": [
+      {
+        "id": "zh-may15-1",
+        "title": "ZH",
+        "body": "아직 안 봤어?（还没看吗？）",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-zh",
+          "participants": "owner,zh-contact"
+        },
+        "time": "2026-05-15 23:14",
+        "sender": "ZH",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "zh-may15-2",
+        "title": "ZH",
+        "body": "뭘（看什么）",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-zh",
+          "participants": "owner,zh-contact"
+        },
+        "time": "2026-05-15 23:15",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": true,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "zh-may15-3",
+        "title": "ZH",
+        "body": "ㅋㅋ 됐어（ㅋㅋ 算了）",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-zh",
+          "participants": "owner,zh-contact"
+        },
+        "time": "2026-05-15 23:15",
+        "sender": "ZH",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "zh-video",
+        "title": "ZH",
+        "body": "视频 · 00:17 · 无附带文字。画面里只有排练室镜面、地板和一双浅色运动鞋；没有清楚的人脸。",
+        "richText": "",
+        "meta": {
+          "duration": "00:17",
+          "filename": "IMG_0515.MOV",
+          "conversationId": "chat-zh",
+          "participants": "owner,zh-contact"
+        },
+        "time": "2026-05-15 23:16",
+        "sender": "ZH",
+        "avatar": "",
+        "kind": "video",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "zh-may15-4",
+        "title": "ZH",
+        "body": "又在看那个视频ㅋㅋ",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-zh",
+          "participants": "owner,zh-contact"
+        },
+        "time": "2026-05-15 23:18",
+        "sender": "ZH",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "zh-may15-5",
+        "title": "ZH",
+        "body": "什么视频",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-zh",
+          "participants": "owner,zh-contact"
+        },
+        "time": "2026-05-15 23:19",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": true,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "zh-may15-6",
+        "title": "ZH",
+        "body": "装不知道",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-zh",
+          "participants": "owner,zh-contact"
+        },
+        "time": "2026-05-15 23:19",
+        "sender": "ZH",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "zh-may16-1",
+        "title": "ZH",
+        "body": "봤어?（看了吗？）",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-zh",
+          "participants": "owner,zh-contact"
+        },
+        "time": "2026-05-16 00:03",
+        "sender": "ZH",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "zh-may16-2",
+        "title": "ZH",
+        "body": "응（嗯）",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-zh",
+          "participants": "owner,zh-contact"
+        },
+        "time": "2026-05-16 00:03",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": true,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "zh-may16-3",
+        "title": "ZH",
+        "body": "진짜?（真的？）",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-zh",
+          "participants": "owner,zh-contact"
+        },
+        "time": "2026-05-16 00:04",
+        "sender": "ZH",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "zh-may16-4",
+        "title": "ZH",
+        "body": "왜 자꾸 물어봐ㅋㅋ（怎么一直问ㅋㅋ）",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-zh",
+          "participants": "owner,zh-contact"
+        },
+        "time": "2026-05-16 00:04",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": true,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "zh-may16-5",
+        "title": "ZH",
+        "body": "그냥（没什么）",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-zh",
+          "participants": "owner,zh-contact"
+        },
+        "time": "2026-05-16 00:05",
+        "sender": "ZH",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "zh-may17-1",
+        "title": "ZH",
+        "body": "오늘은 안 봤지?（今天没看吧？）",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-zh",
+          "participants": "owner,zh-contact"
+        },
+        "time": "2026-05-17 21:37",
+        "sender": "ZH",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "zh-may17-2",
+        "title": "ZH",
+        "body": "ㅋㅋㅋㅋㅋ",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-zh",
+          "participants": "owner,zh-contact"
+        },
+        "time": "2026-05-17 21:38",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": true,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "zh-may17-3",
+        "title": "ZH",
+        "body": "대답해（回答我）",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-zh",
+          "participants": "owner,zh-contact"
+        },
+        "time": "2026-05-17 21:38",
+        "sender": "ZH",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "zh-may17-4",
+        "title": "ZH",
+        "body": "비밀（秘密）",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-zh",
+          "participants": "owner,zh-contact"
+        },
+        "time": "2026-05-17 21:39",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": true,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "zh-may18-1",
+        "title": "ZH",
+        "body": "내일은 직접 보여줄게.（明天直接给你看。）",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-zh",
+          "participants": "owner,zh-contact"
+        },
+        "time": "2026-05-18 22:52",
+        "sender": "ZH",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "zh-may18-2",
+        "title": "ZH",
+        "body": "뭘?（什么？）",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-zh",
+          "participants": "owner,zh-contact"
+        },
+        "time": "2026-05-18 22:53",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": true,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "zh-may18-3",
+        "title": "ZH",
+        "body": "보면 알아ㅋㅋ（看了就知道ㅋㅋ）",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-zh",
+          "participants": "owner,zh-contact"
+        },
+        "time": "2026-05-18 22:54",
+        "sender": "ZH",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "zh-may18-4",
+        "title": "ZH",
+        "body": "싫어（不要）",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-zh",
+          "participants": "owner,zh-contact"
+        },
+        "time": "2026-05-18 22:55",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": true,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "zh-may18-5",
+        "title": "ZH",
+        "body": "아직 아무것도 안 보여줬는데?（我还什么都没给你看呢？）",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-zh",
+          "participants": "owner,zh-contact"
+        },
+        "time": "2026-05-18 22:55",
+        "sender": "ZH",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "zh-may18-6",
+        "title": "ZH",
+        "body": "그래서 싫다고ㅋㅋ（所以才说不要啊ㅋㅋ）",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-zh",
+          "participants": "owner,zh-contact"
+        },
+        "time": "2026-05-18 22:56",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": true,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "yoon-1",
+        "title": "윤서 언니 💗",
+        "body": "오늘도 고생했어（今天也辛苦了）",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-yoonseo",
+          "participants": "owner,seo-yoon"
+        },
+        "time": "2026-05-18 19:42",
+        "sender": "윤서 언니 💗",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "yoon-2",
+        "title": "윤서 언니 💗",
+        "body": "언니도（姐姐也是）",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-yoonseo",
+          "participants": "owner,seo-yoon"
+        },
+        "time": "2026-05-18 19:43",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": true,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "yoon-3",
+        "title": "윤서 언니 💗",
+        "body": "밥은 먹었어?（吃饭了吗？）",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-yoonseo",
+          "participants": "owner,seo-yoon"
+        },
+        "time": "2026-05-18 20:18",
+        "sender": "윤서 언니 💗",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "yoon-4",
+        "title": "윤서 언니 💗",
+        "body": "응 먹었어（嗯，吃了）",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-yoonseo",
+          "participants": "owner,seo-yoon"
+        },
+        "time": "2026-05-18 20:19",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": true,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "yoon-5",
+        "title": "윤서 언니 💗",
+        "body": "거짓말하지 마ㅋㅋ（别骗人啦ㅋㅋ）",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-yoonseo",
+          "participants": "owner,seo-yoon"
+        },
+        "time": "2026-05-18 20:19",
+        "sender": "윤서 언니 💗",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "yoon-6",
+        "title": "윤서 언니 💗",
+        "body": "왜 다들 이래（怎么大家都这样）",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-yoonseo",
+          "participants": "owner,seo-yoon"
+        },
+        "time": "2026-05-18 20:20",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": true,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "yoon-7",
+        "title": "윤서 언니 💗",
+        "body": "잘 자. 내일 봐 💗（早点睡，明天见💗）",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-yoonseo",
+          "participants": "owner,seo-yoon"
+        },
+        "time": "2026-05-18 20:21",
+        "sender": "윤서 언니 💗",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "group-1",
+        "title": "LUMINA 🫧",
+        "body": "工作人员：明早集合时间有调整，先别转发外部群。",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-group",
+          "participants": "owner,minseo,manager"
+        },
+        "time": "2026-05-18 22:46",
+        "sender": "Manager",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "group-2",
+        "title": "LUMINA 🫧",
+        "body": "知雅 언니，明天我把道具盒带过去。",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-group",
+          "participants": "owner,minseo,manager"
+        },
+        "time": "2026-05-18 22:48",
+        "sender": "敏书",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "group-3",
+        "title": "LUMINA 🫧",
+        "body": "收到。先别告诉其他人ㅋㅋ",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-group",
+          "participants": "owner,minseo,manager"
+        },
+        "time": "2026-05-18 22:49",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": true,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "friends-1",
+        "title": "친구들",
+        "body": "ㅋㅋㅋㅋ 사진 봤어?（ㅋㅋㅋㅋ 看照片了吗？）",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-friends",
+          "participants": "owner,seo-yoon,minseo"
+        },
+        "time": "2026-05-18 17:34",
+        "sender": "敏书",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "friends-2",
+        "title": "친구들",
+        "body": "아직（还没）",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-friends",
+          "participants": "owner,seo-yoon,minseo"
+        },
+        "time": "2026-05-18 17:35",
+        "sender": "韩知雅",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": true,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "friends-3",
+        "title": "친구들",
+        "body": "그럼 내일 봐（那就明天看）",
+        "richText": "",
+        "meta": {
+          "conversationId": "chat-friends",
+          "participants": "owner,seo-yoon,minseo"
+        },
+        "time": "2026-05-18 17:36",
+        "sender": "윤서 언니 💗",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "id": "story-start",
+      "label": "打开手机时出现一条通知",
+      "type": "start",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "notification",
+          "key": "new-message",
+          "value": "ZH：내일은 직접 보여줄게.（明天直接给你看。）"
+        }
+      ],
+      "next": [
+        "main-choice"
+      ],
+      "once": true,
+      "x": 100,
+      "y": 100
+    },
+    {
+      "id": "main-choice",
+      "label": "决定如何处理手机里的线索",
+      "type": "choice",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "path-return",
+        "path-ignore"
+      ],
+      "once": true,
+      "x": 300,
+      "y": 100
+    },
+    {
+      "id": "photo-read-crossapp",
+      "label": "阅读视频信息截图后解锁备忘录并收到来电",
+      "type": "event",
+      "event": "read",
+      "target": "photo-video-timestamp",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "note-hidden",
+          "value": "true"
+        },
+        {
+          "type": "clue",
+          "key": "clue-video-repeat",
+          "value": "true"
+        },
+        {
+          "type": "call",
+          "key": "phone",
+          "value": "未知号码"
+        },
+        {
+          "type": "choice",
+          "key": "path-connect",
+          "value": "把视频、备忘录与日程线索串起来"
+        }
+      ],
+      "next": [],
+      "once": true,
+      "x": 300,
+      "y": 260
+    },
+    {
+      "id": "path-connect",
+      "label": "把线索串起来",
+      "type": "event",
+      "event": "choose",
+      "target": "path-connect",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "clue",
+          "key": "clue-calendar",
+          "value": "true"
+        }
+      ],
+      "next": [
+        "ending-true"
+      ],
+      "once": true,
+      "x": 520,
+      "y": 260
+    },
+    {
+      "id": "path-return",
+      "label": "把手机交到巡演失物招领处",
+      "type": "event",
+      "event": "choose",
+      "target": "path-return",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "ending-ordinary"
+      ],
+      "once": true,
+      "x": 520,
+      "y": 100
+    },
+    {
+      "id": "path-ignore",
+      "label": "清空最近记录后离开",
+      "type": "event",
+      "event": "choose",
+      "target": "path-ignore",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "ending-bad"
+      ],
+      "once": true,
+      "x": 520,
+      "y": 20
+    },
+    {
+      "id": "ending-true",
+      "label": "真结局",
+      "type": "ending",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "ending-true-note",
+          "value": "true"
+        },
+        {
+          "type": "ending",
+          "key": "ending",
+          "value": "真结局"
+        }
+      ],
+      "next": [],
+      "once": true,
+      "x": 740,
+      "y": 260
+    },
+    {
+      "id": "ending-ordinary",
+      "label": "普通结局",
+      "type": "ending",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "ending-ordinary-note",
+          "value": "true"
+        },
+        {
+          "type": "ending",
+          "key": "ending",
+          "value": "普通结局"
+        }
+      ],
+      "next": [],
+      "once": true,
+      "x": 740,
+      "y": 100
+    },
+    {
+      "id": "ending-bad",
+      "label": "坏结局",
+      "type": "ending",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "ending-bad-note",
+          "value": "true"
+        },
+        {
+          "type": "ending",
+          "key": "ending",
+          "value": "坏结局"
+        }
+      ],
+      "next": [],
+      "once": true,
+      "x": 740,
+      "y": 20
+    }
+  ],
+  "variables": {
+    "story_started": false
+  },
+  "mode": "mixed"
+}
